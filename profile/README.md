@@ -1,6 +1,6 @@
 # D-Suite
 ## About
-D-suite is exploring how power electronics devices can help manage low voltage (LV) distribution networks, in the face of growing low carbon technologies (LCTs) such as solar PV, heat pumps, and electric vehicles.
+D-Suite is exploring how power electronics devices can help manage low voltage (LV) distribution networks, in the face of growing low carbon technologies (LCTs) such as solar PV, heat pumps, and electric vehicles.
 
 The Beta phase of the D-Suite project proposes to demonstrate a suite of partially rated Power Electronic Devices (PEDs) and an LV Design Tool. The LV Design Tool will undertake technology selection and choose the optimal siting and size of the PEDs. The PEDs will be capable of
 - Mitigating phase voltage and current imbalance.
