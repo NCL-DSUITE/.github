@@ -1,4 +1,4 @@
-# D-Suite
+# D-Suite: LV Design Tool
 ## About
 D-Suite is exploring how power electronics devices can help manage low voltage (LV) distribution networks, in the face of growing low carbon technologies (LCTs) such as solar PV, heat pumps, and electric vehicles.
 
